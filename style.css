@@ -86,7 +86,7 @@ td {
     text-align: center;
 }
 
-tfoot {
+tfoot td {
     background-color: #798252;
     color: #f4f0ea;
 }
@@ -136,4 +136,19 @@ button {
     color: #4c5526;
     border-radius: 5px;
     cursor: pointer;
+}
+
+footer {
+    background-color: #798252;
+    text-align: center;
+    padding: 2rem;
+}
+
+.paragrafo-footer {
+    color: #f4f0ea;
+}
+
+footer a {
+    color: #ccd595;
+    text-decoration: none;
 }
